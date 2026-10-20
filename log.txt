@@ -1,0 +1,14 @@
+[2026-10-20 17:59:13] Sorted inventory alphabetically
+[2026-10-20 17:59:18] Sorted inventory alphabetically
+[2026-10-20 17:59:28] Viewed inventory
+[2026-10-20 18:00:08] Added item: "ice cream"
+[2026-10-20 18:00:13] Sorted inventory alphabetically
+[2026-10-20 18:00:17] Viewed inventory
+[2026-10-20 18:00:25] Exited inventory control system
+[2026-10-20 18:00:25] Log file test successful
+Library program started
+Failed to add book: Missing information
+Library program closed
+Library program started
+Book added: Let us C by Yashavant Kanetkar (1992) - computer science
+Library program closed
